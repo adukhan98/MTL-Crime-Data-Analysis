@@ -14,11 +14,11 @@ List the key features of your project. For example:
 - Predictive modeling for future crime trends 🔮
 
 ## Technologies Used
--Python
--Pandas
--Matplotlib
--Scikit-learn
--Numpy
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Numpy
 
 ## Getting Started
 Include instructions on how to set up the project locally. For example:
