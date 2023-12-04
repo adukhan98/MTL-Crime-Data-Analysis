@@ -19,6 +19,7 @@ List the key features of your project. For example:
 - Matplotlib
 - Scikit-learn
 - Numpy
+- Seaborn
 
 ## Getting Started
 Include instructions on how to set up the project locally. For example:
