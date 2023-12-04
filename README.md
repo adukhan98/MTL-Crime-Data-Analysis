@@ -2,7 +2,6 @@
 # Montreal Crime Data Analysis 🚔📊
 
 ## Overview
-Briefly describe the purpose of your project. For example:
 
 > This project provides a comprehensive analysis of crime data in Montreal. Utilizing Python and various data analysis libraries, it aims to uncover trends, patterns, and insights that could be valuable for law enforcement and public safety initiatives.
 
@@ -14,6 +13,13 @@ List the key features of your project. For example:
 - Statistical analysis for pattern recognition 🧮
 - Predictive modeling for future crime trends 🔮
 
+## Technologies Used
+-Python
+-Pandas
+-Matplotlib
+-Scikit-learn
+-Numpy
+
 ## Getting Started
 Include instructions on how to set up the project locally. For example:
 
@@ -23,8 +29,3 @@ cd montreal-crime-data-analysis
 
 
 
-## Technologies Used
-Python
-Pandas
-Matplotlib
-Scikit-learn
